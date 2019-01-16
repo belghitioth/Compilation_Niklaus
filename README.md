@@ -1,3 +1,3 @@
 # Compilation_Niklaus
 
-On souhaite écrire une grammaire ANTLR pour un petit langage appelé Niklaus puis générer des arbres de syntaxe abstraite (AST) pour enfin compiler ce langage vers le langage d’assemblage du petit micro-processeur simulé sur logisim.
+The aim of this project is to write an ANTLR grammar for a small language called Niklaus, then generate AST ( Abstract Syntaxic Tree) in order to compile this language  to assembly language and run a small processing unit simulated with Logisim.
